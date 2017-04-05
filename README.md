@@ -3,10 +3,8 @@ This is a pure Python Tor protocol implementation
 
 ## Examples
 ``` python
-import sys; sys.path.append("..")
-
-from desc import Descriptors
-from rend import rend_compute_v2_desc_id,Rend
+from tor.desc import Descriptors
+from tor.rend import rend_compute_v2_desc_id,Rend
 import requests
 
 
