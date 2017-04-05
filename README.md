@@ -1,6 +1,13 @@
 # Tor
 This is a pure Python Tor protocol implementation
 
+## Dependencies
+
+- Python 2.7
+- pyCrypto
+- pyOpenSSL
+
+
 ## Examples
 ``` python
 from tor.desc import Descriptors
