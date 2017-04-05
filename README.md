@@ -1,5 +1,5 @@
 # Tor
-This is a pure Python Tor protocol implementation
+This is a pure Python Tor protocol implementation. This is my research of tor, hidden servers and play with him. 
 
 ## Dependencies
 
