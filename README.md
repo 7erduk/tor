@@ -1,6 +1,12 @@
 # Tor
 This is a pure Python Tor protocol implementation. This is my research of tor, hidden servers and play with him. 
 
+You can do:
+- make circs from 2 to whant you want
+- resolve domain
+- connect to hidden servers
+
+
 ## Dependencies
 
 - Python 2.7
@@ -36,3 +42,8 @@ r.sendRELAY_DATA(0x1234,'GET / HTTP/1.0\r\n\r\n')
 print r.recvRELAY_DATA(0x1234)
 r.sendRELAY_END(0x1234)
 ```
+
+## Contacts
+
+7erduk@gmail.com
+
