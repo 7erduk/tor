@@ -6,6 +6,7 @@ You can do:
 - resolve domain
 - connect to hidden servers
 
+see examples
 
 ## Dependencies
 
