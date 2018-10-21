@@ -2,7 +2,7 @@
 This is a pure Python Tor protocol implementation. This is my research of tor, hidden servers and play with him. I shure, it helps everybody to learn tor protocol. 
 
 You can do:
-- make circs from 2 to whant you want
+- make circle from 2 to what you want
 - resolve domain
 - connect to hidden servers
 
